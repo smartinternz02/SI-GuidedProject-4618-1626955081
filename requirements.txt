@@ -1,0 +1,5 @@
+tensorflow==2.5.0
+keras==2.4.3
+Flask==1.1.1
+Flask-cors==3.0.8
+gevent
